@@ -10,7 +10,7 @@
 - 📊 **Driven Data Analyst** 
 - 💬 Ask me about **SQL, Excel , Power Bi , Python** 
 - 📫 How to reach me **Bigyandutt.dataanalyst@gmail.com**
-- 💼 Portfolio Website **https://bigyanduttpanda1.my.canva.site/** 
+- 💼 Portfolio Website **https://bigyanduttpanda.github.io/** 
 <img align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif">
 
 
